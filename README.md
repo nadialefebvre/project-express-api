@@ -1,4 +1,6 @@
-# Week 17: Project Express API
+# Project Sweetest API
+
+Weekly project for Technigo's bootcamp, week 17: build an API with Express
 
 This week's project was to create an API using Express with RESTful endpoints.
 
