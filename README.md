@@ -45,6 +45,6 @@ Many query parameters can be used alone or combined together):
 
 ## View it live
 
-Project deployed here (link to documentation): [Sweetest API](https://sweetest-api.herokuapp.com/)
+Project deployed here (link to documentation): [Sweetest API](https://sweetest-api-kijk33idxa-lz.a.run.app/)
 
-All endpoints: https://sweetest-api.herokuapp.com/endpoints
+All endpoints: https://sweetest-api-kijk33idxa-lz.a.run.app/endpoints
