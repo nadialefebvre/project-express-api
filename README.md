@@ -1,10 +1,17 @@
 # Project Sweetest API
 
-Weekly project for Technigo's bootcamp, week 17: build an API with Express
+Weekly project for Technigo's bootcamp, week 17: build an API with Express (May 2022)
 
-This week's project was to create an API using Express with RESTful endpoints.
+## Tech stack
+
+- JavaScript
+- Node.js
+- Express
+- API
 
 ## The problem
+
+This week's project was to create an API using Express with RESTful endpoints.
 
 This first project with backend was very easy in my opinion, I had no trouble to understand what to do and how to do it. However, because of that, I had an ambitious (too amitious) plan at first for which I created my own dataset. By lack of time to build the nice frontend for which this dataset was created, I had to start over with an already made dataset, and I decided to make it quite simple and to leave out the optional frontend. I had an issue with filtering the properties with boolean values but with lots of thinking/googling/asking for help, I made it work.
 
